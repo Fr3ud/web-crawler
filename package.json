@@ -1,0 +1,22 @@
+{
+  "name": "web-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fr3ud/web-crawler.git"
+  },
+  "author": "Fr3ud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fr3ud/web-crawler/issues"
+  },
+  "homepage": "https://github.com/Fr3ud/web-crawler#readme",
+  "dependencies": {
+    "needle": "^2.6.0"
+  }
+}
